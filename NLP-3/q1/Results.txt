@@ -1,0 +1,26 @@
+Results:
+
+1.1 ------------------
+#VB Verb, base form
+#VBD Verb, past tense
+#VBG Verb, gerund or present participle
+#VBN Verb, past participle
+#VBP Verb, non­3rd person singular present
+#VBZ Verb, 3rd person singular present
+Verbs/sentence=3.654812910596972
+
+
+1.2-------------------
+Sentence count-using CFG parse
+14004
+
+1.3--------------------
+Three most common prepositions
+# Question 1.3
+#of , 10141
+#in , 6250
+#to , 3191
+------------------------------------
+for 1.4 refer pdf---Question 1.4.pdf
+
+
