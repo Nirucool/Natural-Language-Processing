@@ -1,0 +1,123 @@
+Activation Function : identity
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 45
+Average Accuracy : 0.7342959167831081
+
+Activation Function : logistic
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 45
+Average Accuracy : 0.6620245303524298
+
+Activation Function : tanh
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 45
+Average Accuracy : 0.694581586710138
+
+Activation Function : relu
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 45
+Average Accuracy : 0.7052088185064431
+
+Activation Function : identity
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 46
+Average Accuracy : 0.7307793820835273
+
+Activation Function : logistic
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 46
+Average Accuracy : 0.6628240956373235
+
+Activation Function : tanh
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 46
+Average Accuracy : 0.6832557056357709
+
+Activation Function : relu
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 46
+Average Accuracy : 0.6821456295606273
+
+Activation Function : identity
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 47
+Average Accuracy : 0.7722403353516534
+
+Activation Function : logistic
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 47
+Average Accuracy : 0.6584381307250428
+
+Activation Function : tanh
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 47
+Average Accuracy : 0.6884955752212389
+
+Activation Function : relu
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 47
+Average Accuracy : 0.7141049526471045
+
+Activation Function : identity
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 48
+Average Accuracy : 0.748408632199969
+
+Activation Function : logistic
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 48
+Average Accuracy : 0.658414842415774
+
+Activation Function : tanh
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 48
+Average Accuracy : 0.7060627231796305
+
+Activation Function : relu
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 48
+Average Accuracy : 0.7016379444185686
+
+Activation Function : identity
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 49
+Average Accuracy : 0.7334031982611395
+
+Activation Function : logistic
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 49
+Average Accuracy : 0.6796770687781399
+
+Activation Function : tanh
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 49
+Average Accuracy : 0.7122341251358485
+
+Activation Function : relu
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 49
+Average Accuracy : 0.6857242664182579
+
+Activation Function : identity
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 50
+Average Accuracy : 0.7440381928272009
+
+Activation Function : logistic
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 50
+Average Accuracy : 0.6646483465300419
+
+Activation Function : tanh
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 50
+Average Accuracy : 0.6997671169073125
+
+Activation Function : relu
+Optimizer/Solver Function : lbfgs
+First Hidden Layer Nodes : 50
+Average Accuracy : 0.7025073746312683
+
+Best Accuracy:  0.7722403353516534
+Optimal number of nodes in First Hidden Layer :47
+Optimal Activation Function: identity

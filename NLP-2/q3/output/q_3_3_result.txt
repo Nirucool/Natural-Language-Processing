@@ -1,0 +1,6 @@
+Best Accuracy:  0.7608445893494798
+Optimal number of nodes in First Hidden Layer :48
+Optimal Activation Function: identity
+
+
+Final Accuracy:  0.8075904677846425
